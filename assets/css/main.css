@@ -5,6 +5,25 @@
   margin: 0;
 }
 
+.image-wrapper {
+    text-align: center;
+
+    .image-caption {
+        color: $grey-color;
+        margin-top: $spacing-unit / 3;
+    }
+}
+.column {
+  float: left;
+  width: 50%;
+  padding: 5px;
+}
+
+.row::after {
+  content: "";
+  clear: both;
+  display: table;
+}
 .highlighter-rouge {
   color: #87314e;
   font-weight: 400;
