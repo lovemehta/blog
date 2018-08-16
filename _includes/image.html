@@ -1,0 +1,17 @@
+<!-- <img style="align-self: center;" src="{{site.baseurl}}{{ include.file }}" alt="{{ include.description }}">  
+<span style="text-align: center;" class="caption">{{ include.description }}</span>
+ -->
+
+<!-- _includes/image.html -->
+<div class="image-wrapper" >
+    {% if include.url %}
+    <a href="{{ include.url }}" title="{{ include.title }}" target="_blank">
+    {% endif %}
+        <img style="width: 70%;height: auto ;" src="{{ site.baseurl }}{{ include.file }}" alt="{{ include.title }}"/>
+    {% if include.url %}
+    </a>
+    {% endif %}
+    {% if include.description %}
+        <p class="image-caption">{{ include.description }}</p>
+    {% endif %}
+</div>

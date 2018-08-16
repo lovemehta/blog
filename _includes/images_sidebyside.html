@@ -1,0 +1,35 @@
+
+
+<div class="row">
+  <div class="column">
+    <div class="image-wrapper" >
+    {% if include.url1 %}
+    <a href="{{ include.url1 }}" title="{{ include.title1 }}" target="_blank">
+    {% endif %}
+        <img style="width: 100%;height: auto ;" src="{{ site.baseurl }}{{ include.file1 }}" alt="{{ include.title1 }}"/>
+    {% if include.url1 %}
+    </a>
+    {% endif %}
+    {% if include.description1 %}
+        <p class="image-caption">{{ include.description1 }}</p>
+    {% endif %}
+</div>
+  </div>
+  <div class="column">
+    <div class="image-wrapper" >
+    {% if include.url2 %}
+    <a href="{{ include.url2 }}" title="{{ include.title2 }}" target="_blank">
+    {% endif %}
+        <img style="width: 100%;height: auto ;" src="{{ site.baseurl }}{{ include.file2 }}" alt="{{ include.title2 }}"/>
+    {% if include.url2 %}
+    </a>
+    {% endif %}
+    {% if include.description2 %}
+        <p class="image-caption">{{ include.description2 }}</p>
+    {% endif %}
+</div>
+  </div>
+<!--   <div class="column">
+    <img src="img_mountains.jpg" alt="Mountains" style="width:100%">
+  </div> -->
+</div>
