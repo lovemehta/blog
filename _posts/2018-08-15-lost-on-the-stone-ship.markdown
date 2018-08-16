@@ -44,7 +44,7 @@ So I took a day trip to Segovia and came back to Madrid by dusk. I walked throug
 
 **3. MONUMENTO A JUAN BRAVO**<br/>
 As you proceed from the Roman Aqueduct to the Plaza Mayor you encounter this ambient plaza with several statues and sculptures. What captivates your attention is a moving monument to Juan Bravo, one of the leaders of the Comuneros Revolt against the absolutist regime of Charles V. He lost the battle and was beheaded but is loved here and is a local hero, as the name of the street and the places and restaurants around proposes.
-{% include image.html file="/assets/img/Segovia8.jpg"  title = "Juan Bravo Statue" base = "site.baseurl" description="Statue of Juan Bravo." %}
+{% include image.html file="/assets/img/segovia8.jpg"  title = "Juan Bravo Statue" base = "site.baseurl" description="Statue of Juan Bravo." %}
 
 **4.ALCAZAR DE SEGOVIA**<br/>
 The Alcázar of Segovia is a medieval alcázar/castle located in the city of Segovia, a World Heritage Site by UNESCO. It gives Segovian skies a Hogwarts style skyline. Actually, the whole city of Segovia seems like a Harry Potter set.
