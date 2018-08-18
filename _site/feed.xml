@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.7.3">Jekyll</generator><link href="http://localhost:4000/blog/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/blog/" rel="alternate" type="text/html" /><updated>2018-08-16T22:14:16+05:30</updated><id>http://localhost:4000/blog/</id><title type="html">My personal blog - Love Mehta</title><subtitle>The stories and adventures of an indian backpacking guy. A software developer and researcher who goes rogue to find his true soulfood - travel.
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.7.3">Jekyll</generator><link href="http://localhost:4000/blog/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/blog/" rel="alternate" type="text/html" /><updated>2018-08-18T11:44:18+05:30</updated><id>http://localhost:4000/blog/</id><title type="html">My personal blog - Love Mehta</title><subtitle>The stories and adventures of an indian backpacking guy. A software developer and researcher who goes rogue to find his true soulfood - travel.
 </subtitle><author><name>Love Mehta</name></author><entry><title type="html">Lost on the Stone Ship</title><link href="http://localhost:4000/blog/lost-on-the-stone-ship/" rel="alternate" type="text/html" title="Lost on the Stone Ship" /><published>2018-08-15T01:02:20+05:30</published><updated>2018-08-15T01:02:20+05:30</updated><id>http://localhost:4000/blog/lost-on-the-stone-ship</id><content type="html" xml:base="http://localhost:4000/blog/lost-on-the-stone-ship/">&lt;p&gt;In the summer of 2017, I was living in Madrid, Spain. Being new to Spain, my research supervisor suggested me to visit Segovia and Toledo, one weekend, to experience some rich parts of Spanish culture and history.&lt;/p&gt;
 
 &lt;p&gt;So where is Segovia and why am I so captivated by this town. Well!! I come from Udaipur, a humble city in western India, formerly the capital of the Mewar Kingdom, also known as the City of Lakes. Let’s not get myself started on Udaipur here. The point is that I come from the land of lakes and palaces and castles. And to my surprise, this elegant aged town of Segovia feels like you are into your own fantasy movie world. There are huge cathedrals, churches and a castle that has been a revelation for a number of films and book fictions.&lt;/p&gt;
@@ -194,7 +194,7 @@ The Alcázar of Segovia is a medieval alcázar/castle located in the city of Seg
 &lt;/div&gt;
 &lt;p&gt;&lt;strong&gt;5. MONASTERY OF SANTA MARIA DEL PARAL&lt;/strong&gt;&lt;br /&gt; 
 I walked to this monastery outside the city walls. It is a Roman Catholic Monastery with a great atmosphere. You can find a peaceful environment here and wear off your tiring by sitting by the pond and admiring the castle and the cathedral from here.
-&lt;!-- &lt;img style=&quot;align-self: center;&quot; src=&quot;/blog/assets/img/Segovia8.jpg&quot; alt=&quot;
+&lt;!-- &lt;img style=&quot;align-self: center;&quot; src=&quot;/blog/assets/img/Segovia18.jpg&quot; alt=&quot;
 View of the castle from the monastery of Santa Maria del Parral.&quot;&gt;  
 &lt;span style=&quot;text-align: center;&quot; class=&quot;caption&quot;&gt;
 View of the castle from the monastery of Santa Maria del Parral.&lt;/span&gt;
@@ -203,13 +203,40 @@ View of the castle from the monastery of Santa Maria del Parral.&lt;/span&gt;
 &lt;!-- _includes/image.html --&gt;
 &lt;div class=&quot;image-wrapper&quot;&gt;
     
-        &lt;img style=&quot;width: 70%;height: auto ;&quot; src=&quot;/blog/assets/img/Segovia8.jpg&quot; alt=&quot;MONASTERY OF SANTA MARIA DEL PARAL&quot; /&gt;
+        &lt;img style=&quot;width: 70%;height: auto ;&quot; src=&quot;/blog/assets/img/Segovia18.jpg&quot; alt=&quot;MONASTERY OF SANTA MARIA DEL PARAL&quot; /&gt;
     
     
         &lt;p class=&quot;image-caption&quot;&gt;
 View of the castle from the monastery of Santa Maria del Parral.&lt;/p&gt;
     
 &lt;/div&gt;
+
+&lt;div class=&quot;row&quot;&gt;
+  &lt;div class=&quot;column&quot;&gt;
+    &lt;div class=&quot;image-wrapper&quot;&gt;
+    
+        &lt;img src=&quot;/blog/assets/img/segovia13.jpeg&quot; alt=&quot;MONASTERY OF SANTA MARIA DEL PARAL&quot; /&gt;
+    
+    
+        &lt;p class=&quot;image-caption&quot;&gt;&lt;/p&gt;
+    
+&lt;/div&gt;
+  &lt;/div&gt;
+  &lt;div class=&quot;column&quot;&gt;
+    &lt;div class=&quot;image-wrapper&quot;&gt;
+    
+        &lt;img src=&quot;/blog/assets/img/segovia14.jpeg&quot; alt=&quot;MONASTERY OF SANTA MARIA DEL PARAL&quot; /&gt;
+    
+    
+        &lt;p class=&quot;image-caption&quot;&gt;&lt;/p&gt;
+    
+&lt;/div&gt;
+  &lt;/div&gt;
+&lt;!--   &lt;div class=&quot;column&quot;&gt;
+    &lt;img src=&quot;img_mountains.jpg&quot; alt=&quot;Mountains&quot; style=&quot;width:100%&quot;&gt;
+  &lt;/div&gt; --&gt;
+&lt;/div&gt;
+
 &lt;p&gt;&lt;strong&gt;6. AQUEDUCT OF SEGOVIA&lt;/strong&gt;&lt;br /&gt;
 TThis is an enormous Roman aqueduct, but the photo can’t depict it. It stands through the centuries and they say that Satan built it himself. In reality, they haven’t still dated how old is it. There’s a lot of debate going on between archaeologists regarding the dating of the aqueduct. But for now, let’s just say that Satan himself cast it (#facepalm).
 I sat around there for both lunch and dinner. Enjoyed some open-air performances going on and obviously the mesmerizing view with the mind-blowing massiveness of the aqueduct in the background.

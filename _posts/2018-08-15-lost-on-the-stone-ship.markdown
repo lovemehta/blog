@@ -54,8 +54,12 @@ The Alcázar of Segovia is a medieval alcázar/castle located in the city of Seg
 {% include image.html file="/assets/img/Segovia17.jpeg"  title = "Alcázar of Segovia" base = "site.baseurl" description="View of the outskirts from the Castle" %}
 **5. MONASTERY OF SANTA MARIA DEL PARAL**<br/> 
 I walked to this monastery outside the city walls. It is a Roman Catholic Monastery with a great atmosphere. You can find a peaceful environment here and wear off your tiring by sitting by the pond and admiring the castle and the cathedral from here.
-{% include image.html file="/assets/img/Segovia8.jpg"  title = "MONASTERY OF SANTA MARIA DEL PARAL" base = "site.baseurl" description="
+{% include image.html file="/assets/img/Segovia18.jpg"  title = "MONASTERY OF SANTA MARIA DEL PARAL" base = "site.baseurl" description="
 View of the castle from the monastery of Santa Maria del Parral." %}
+
+{% include images_sidebyside.html file1="/assets/img/segovia13.jpeg"  title1 = "MONASTERY OF SANTA MARIA DEL PARAL" base = "site.baseurl" description1="" file2="/assets/img/segovia14.jpeg"  title2 = "MONASTERY OF SANTA MARIA DEL PARAL" base = "site.baseurl" description2="" %}
+
+
 **6. AQUEDUCT OF SEGOVIA**<br/>
 TThis is an enormous Roman aqueduct, but the photo can't depict it. It stands through the centuries and they say that Satan built it himself. In reality, they haven't still dated how old is it. There's a lot of debate going on between archaeologists regarding the dating of the aqueduct. But for now, let's just say that Satan himself cast it (#facepalm).
 I sat around there for both lunch and dinner. Enjoyed some open-air performances going on and obviously the mesmerizing view with the mind-blowing massiveness of the aqueduct in the background.
